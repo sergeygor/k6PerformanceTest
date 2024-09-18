@@ -31,6 +31,4 @@ export default function () {
  * ?. Before conducting a breakpoint test, which of the following prerequisites should ideally be met to ensure accurate and meaningful results?
  * - Ensure that the application has already successfully undergone load and and stress testing to establish a performace baseline.
  * 
- * 
- * 
  */
